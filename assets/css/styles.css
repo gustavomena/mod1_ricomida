@@ -1,0 +1,51 @@
+body{
+    background-color: #fff;
+    font-family: "Cabin";
+}
+
+/* NAV */
+.navbar{
+    background-color: #373A3C; 
+}
+.navbar-collapse .navbar-nav .nav-linkink{
+    color: #fff;  
+    /* background-color: #373A3C; */
+} 
+.navbrand-rc_title{
+font-family: "Lobster";
+font-weight: 400;
+font-size: 37px;
+margin-left: 10px;
+}
+.navbar-rc{  
+    font-weight: 400;
+    font-size: 16px;
+}
+/* font-family: "Cabin";main recipe */
+.rc-main-recipe{
+    margin-top: 24px;
+}
+.rc-btn{
+    font-weight: 400;
+    font-size: 13px;
+}
+/* carousel settings */
+@media (min-width: 768px) {
+ 
+}
+
+
+.rc-newsletter{
+    background-color: #DC3545;
+    color: #fff;
+    text-align: center;
+}
+
+.rc-footer{
+    background-color:#373A3C;
+    color: #fff;
+    font-family: "Lobster";
+    font-weight: 400;
+    font-size: 37px;
+    text-align: center;
+}
